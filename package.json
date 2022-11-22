@@ -1,7 +1,7 @@
 {
   "name": "draw-dots",
   "version": "0.1.0",
-  "homepage": "https://github.com/ChernyshevaNetology/click-dots",
+  "homepage": "https://ChernyshevaNetology.github.io/click-dots",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
