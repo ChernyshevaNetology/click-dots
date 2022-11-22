@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChernyshevaNetology/click-dots/static/css/main.c039b411.css",
+    "main.js": "/ChernyshevaNetology/click-dots/static/js/main.1f1fdca4.js",
+    "index.html": "/ChernyshevaNetology/click-dots/index.html",
+    "main.c039b411.css.map": "/ChernyshevaNetology/click-dots/static/css/main.c039b411.css.map",
+    "main.1f1fdca4.js.map": "/ChernyshevaNetology/click-dots/static/js/main.1f1fdca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c039b411.css",
+    "static/js/main.1f1fdca4.js"
+  ]
+}
